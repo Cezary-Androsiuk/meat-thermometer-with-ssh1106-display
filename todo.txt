@@ -1,0 +1,7 @@
+dodać sprawdzenie czy ścieżka istneije przed szukaniem najnowszego pliku - iterator się zawiesza
+może w qt nie obsłużone throw nie wysypują aplikacji
+zmienić exit(1) na throw i obsłuzyć w Backend
+dodać zapisywanie data do pliku
+dodać scroll bar żeby też na android był
+ikonka
+name - android name should not contain spaces ???
